@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yunjin Jang 👋
 
-<!--
-**jyj1256/jyj1256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an M.S. student in Computer Science at Kyonggi University, with research interests in computer vision, multimodal learning, and deep learning.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- Computer Vision & 3D Object Detection
+- Vision-Language Models (VLMs)
+- Attention Mechanisms & Deep Learning Architectures
+- Long-Term Memory for AI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- **Languages:** Python
+- **Frameworks:** PyTorch
+- **Research:** Deep Learning, Model Implementation, Experimental Evaluation
+
+## 📚 Selected Projects
+Research projects and implementations will be added here as they are prepared.
